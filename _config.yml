@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: localhost
+title: Code Shippers
+subtitle: We put the 'go' in cargo cult
+author: Jorge Chao
 simple_search: https://www.google.com/search
 description:
 
