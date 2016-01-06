@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Code Shippers]]></title>
+  <link href="localhost/atom.xml" rel="self"/>
+  <link href="localhost/"/>
+  <updated>2016-01-06T14:09:35-06:00</updated>
+  <id>localhost/</id>
+  <author>
+    <name><![CDATA[Jorge Chao]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First]]></title>
+    <link href="localhost/blog/2016/01/02/first/"/>
+    <updated>2016-01-02T17:11:58-06:00</updated>
+    <id>localhost/blog/2016/01/02/first</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>

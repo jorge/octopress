@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>localhost/blog/2016/01/02/first/</loc>
+    <lastmod>2016-01-02T17:11:58-06:00</lastmod>
+  </url>
+  <url>
+    <loc>localhost/blog/archives/</loc>
+  </url>
+  <url>
+    <loc>localhost/archives/</loc>
+  </url>
+  <url>
+    <loc>localhost/categories/</loc>
+  </url>
+  <url>
+    <loc>localhost/</loc>
+  </url>
+  <url>
+    <loc>localhost/posts/</loc>
+  </url>
+</urlset>
